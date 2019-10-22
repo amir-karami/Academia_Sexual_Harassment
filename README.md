@@ -5,8 +5,4 @@ Karami A., White N., Ford K., Swan S., Spinelb M. Y.(2019) Unwanted Advances in 
 
 File Format:
 
-There four columns in this dataset:
-1- HarressarGender
-2- Major
-3- Institution
-4- Experience
+There are four columns in this dataset: (1) HarressarGender, (2) Major, (3) Institution, and (4) Experience. 
